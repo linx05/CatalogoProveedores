@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1463211721 source:c:\users\cesar\projects\c++\catalogoproveedores\main.cpp
+1463217671 source:c:\users\cesar\projects\c++\catalogoproveedores\main.cpp
+	<iostream>
 	<stdio.h>
 	<stdlib.h>
 
